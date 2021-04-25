@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
-        Title = "Swag mode - This is Old Crash";
+        Title = "Swag mode - Ver 3??";
         Text = "Will Take like 10 Minutes";
         Duration = 20;
     })
